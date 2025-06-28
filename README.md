@@ -14,9 +14,15 @@ If it is the first time you refer to GitHub paths from your Power BI installatio
 
 Microsoft Power BI for Desktop, unfortunately, is a proprietary BI software. It has a free version but only works on Windows - no open-source versions available for Linux or Mac. Therefore, if you use another operating system, as me, and would like to try Power BI, you could firstly install Oracle VM VirtualBox (a virtual machine manager), create a Windows virtual machine with it and then install Power BI Desktop on it. Do not forget to install the Guest Additions extra package, so that you can set the maximum resolution of your screen at your Windows virtual machine (1K or 4k)... instead of leaving the low resolution that is set by default at VirtualBox. You can read more about it at VirtualBox documentation.
 
-[**Printscreen App Samples**]<br>
+[**Printscreen Samples**]<br>
 
-![image](...)
+![image](https://github.com/danielpm1982/bi-dataviz/blob/master/Glycemia.png)
+
+![image](https://github.com/danielpm1982/bi-dataviz/blob/master/Colaboradores.png)
+
+![image](https://github.com/danielpm1982/bi-dataviz/blob/master/Consultor.png)
+
+![image](https://github.com/danielpm1982/bi-dataviz/blob/master/Chamados.png)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
