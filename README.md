@@ -12,10 +12,11 @@ The main content of this repository are the Power BI dashboards, contained at th
 
 If it is the first time you refer to GitHub paths from your Power BI installation, and at the Power Query (Transform Data ETL) section a warning box appears asking you how to acess the remote data, just click on it and choose to connect anonymously - all data in this repo is public, no need for authentications. If you still can't load the data, after refreshing the tables, just reset the "source" parameter, according to your filesystem, pointing out the data locally, at this repo root folder at your machine.
 
-Microsoft Power BI for Desktop, unfortunately, is a proprietary BI software. It has a free version but only works on Windows - no open-source versions available for Linux or Mac. Therefore, if you use another operating system, as me, and would like to try Power BI, you could firstly install VirtualBox (a virtual machine management software), create a Windows virtual machine with it and then install Power BI Desktop on it. Do not forget to install the Guest Additions extra package, so that you can set the maximum resolution of your screen at your Windows virtual machine (1K or 4k)... instead of leaving the low resolution that is set by default at VirtualBox. You can read more about it at VirtualBox documentation.
+Microsoft Power BI for Desktop, unfortunately, is a proprietary BI software. It has a free version but only works on Windows - no open-source versions available for Linux or Mac. Therefore, if you use another operating system, as me, and would like to try Power BI, you could firstly install Oracle VM VirtualBox (a virtual machine manager), create a Windows virtual machine with it and then install Power BI Desktop on it. Do not forget to install the Guest Additions extra package, so that you can set the maximum resolution of your screen at your Windows virtual machine (1K or 4k)... instead of leaving the low resolution that is set by default at VirtualBox. You can read more about it at VirtualBox documentation.
 
-[**Source Code and Run**]<br>
-Source code available at github.com, through the following link:<br>
+[**Printscreen App Samples**]<br>
+
+![image](...)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
